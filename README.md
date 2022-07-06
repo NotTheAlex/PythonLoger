@@ -5,8 +5,7 @@
 
 <h5>Пример использования</h5>
 
-<pre lang="no-highlight"><code>
-```python
+<pre lang="no-highlight"><code>```python
 from loger import log
 
 l = log(log_folder = 'MyLogs')

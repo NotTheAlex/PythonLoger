@@ -18,5 +18,8 @@ l.add ('Complete')
 
 <p>Данный скрипт создаст папку MyLogs и поместит туда лог в котором будет примерно так:</p>
 
-<p>[07:19:16] Test Information</p>
-<p>[07:19:17] Complete</p>
+
+```
+[07:19:16] Test Information
+[07:19:17] Complete
+```

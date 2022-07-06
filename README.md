@@ -5,7 +5,7 @@
 
 <h5>Пример использования</h5>
 
-<pre lang="no-highlight"><code>```python
+```python
 from loger import log
 
 l = log(log_folder = 'MyLogs')
@@ -13,7 +13,7 @@ l = log(log_folder = 'MyLogs')
 l.add ('Test Information')
 l.add ('Complete')
 ```
-</code></pre>
+
 
 
 <p>Данный скрипт создаст папку MyLogs и поместит туда лог в котором будет примерно так:</p>
